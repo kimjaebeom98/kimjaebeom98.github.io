@@ -286,5 +286,3 @@ defaults:
 
 date_format : "%Y-%m-%d"
 
-category_dir: category/
-tag_dir: tag/

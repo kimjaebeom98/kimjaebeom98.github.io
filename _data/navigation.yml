@@ -1,28 +1,6 @@
+# main links
 main:
   - title: "Category"
     url: /categories/
   - title: "Tag"
     url: /tags/
-
-sidebar:
-  - title: "AI"
-    children:
-      - title: "Deeplearning"
-        url: /categories/deeplearning
-        category: "deeplearning"
-      - title: "Paper review"
-        url: /categories/paperreview
-        category: "paperreview"
-  - title: "CS"
-    children:
-      - title: "Algorithm"
-        url: /categories/algorithm
-        category: "algorithm"
-      - title: "MLOPS"
-        url: /categories/mlops
-        category: "mlops"
-  - title: "Errors"
-    children:
-      - title: "Errors"
-        url: /categories/errors
-        category: "errors" 

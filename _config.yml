@@ -270,7 +270,38 @@ compress_html:
 
 
 # Defaults
+#defaults:
+#  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
+#      show_data : true
+
+#date_format : "%Y-%m-%d"
+
+#category_dir: category/
+#tag_dir: tag/
+
+# Defaults
 defaults:
+  # default
+  # home layout에 sidebar 설정
+  - scope:
+      path: ""
+    values:
+      layout: home
+      author_profile: true
+      sidebar:
+        nav: sidebar
+      show_date: true
+
   # _posts
   - scope:
       path: ""
@@ -282,9 +313,6 @@ defaults:
       comments: true
       share: true
       related: true
-      show_data : true
-
-date_format : "%Y-%m-%d"
-
-category_dir: category/
-tag_dir: tag/
+      sidebar:
+        nav: sidebar
+      show_date: true

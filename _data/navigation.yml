@@ -24,3 +24,13 @@ sidebar:
       - title: "Algorithms"
         url: /categories/Algorithms
         category: "Alforithms"
+  - title: "Projects"
+    children:
+      - title: "CapStone"
+        url: /categories/CapStone
+        category: "CapStone"
+  - title: "Majors"
+    children:
+      - title: "OS"
+        url: /categories/OS
+        category: "OS"

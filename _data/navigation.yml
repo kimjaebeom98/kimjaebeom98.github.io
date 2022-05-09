@@ -16,7 +16,7 @@ main:
   #   url: /sitemap/
 
 sidebar:
-  - title: "Self Study"
+  - title: "CS"
     children:
       - title: "BOJ"
         url: /categories/BOJ
@@ -34,3 +34,8 @@ sidebar:
       - title: "OS"
         url: /categories/OS
         category: "OS"
+  - title: "Front-End"
+    children:
+      - title: "HTML + CSS"
+        url: /categories/HTML_CSS
+        category: "HTML_CSS"

@@ -34,8 +34,12 @@ sidebar:
       - title: "OS"
         url: /categories/OS
         category: "OS"
-  - title: "Front-End"
+  - title: "Self Study"
     children:
       - title: "HTML + CSS"
         url: /categories/HTML_CSS
         category: "HTML_CSS"
+    children:
+      - title: "Errors"
+        url: /categories/errors
+        category: errors

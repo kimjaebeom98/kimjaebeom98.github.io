@@ -24,6 +24,9 @@ sidebar:
       - title: "Algorithms"
         url: /categories/Algorithms
         category: "Alforithms"
+      - title: python(잡다한 것)
+        url: /categories/python
+        category: "python"
   - title: "Projects"
     children:
       - title: "CapStone"

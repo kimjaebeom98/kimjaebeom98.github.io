@@ -45,9 +45,9 @@ sidebar:
     children:
       - title: "Errors"
         url: /categories/errors
-        category: errors
+        category: "errors"
   - title: "ETC"
     children:
       - title: "Jekyll"
         url: /categories/jekyll
-        category: jekyll
+        category: "jekyll"

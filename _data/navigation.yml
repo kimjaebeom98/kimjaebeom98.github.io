@@ -50,4 +50,4 @@ sidebar:
     children:
     - title: "Jekyll"
       url: /categories/jekyll
-      category: jekyll
+      category: "jekyll"

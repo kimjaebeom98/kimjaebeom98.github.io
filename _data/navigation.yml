@@ -24,7 +24,7 @@ sidebar:
       - title: "Algorithms"
         url: /categories/Algorithms
         category: "Alforithms"
-      - title: python(잡다한 것)
+      - title: Python(잡다한 것)
         url: /categories/python
         category: "python"
   - title: "Projects"
@@ -46,3 +46,8 @@ sidebar:
       - title: "Errors"
         url: /categories/errors
         category: "errors"
+  - title: "Github blog"
+    children:
+    - title: "Jekyll"
+      url: /categories/jekyll
+      category: jekyll

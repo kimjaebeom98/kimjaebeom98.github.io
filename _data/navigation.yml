@@ -48,6 +48,6 @@ sidebar:
         category: "errors"
   - title: "Github blog"
     children:
-    - title: "Jekyll"
-      url: /categories/jek
-      category: "jek"
+      - title: "Jekyll"
+        url: /categories/jekyll
+        category: "jekyll"

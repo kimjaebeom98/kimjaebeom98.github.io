@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Smile, JaeBeom :)"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "1998.03.03"
 name                     : "KimJaeBeom98"
-description              : "개발자 재범의 자기계발"
+description              : "hello"
 url                      : "https://kimjaebeom98.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,9 +102,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "KimJaeBeom"
+  name             : "KimJaeBeom98"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "재보미의 개발노트입니다."
+  bio              : "개발자 재범의 자기계발"
   location         : "South Korea"
   email            :
   links:

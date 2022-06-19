@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "개발하는 재보미"
+title                    : "Smile, JaeBeom :)"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "KimJaeBeom"
-description              : "재보미의 개발노트"
+name                     : "KimJaeBeom98"
+description              : "개발자 재범의 자기계발"
 url                      : "https://kimjaebeom98.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

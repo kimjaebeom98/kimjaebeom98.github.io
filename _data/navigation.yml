@@ -23,7 +23,7 @@ sidebar:
         category: "BOJ"
       - title: "Algorithms"
         url: /categories/Algorithms
-        category: "Alforithms"
+        category: "Algorithms"
       - title: Python(잡다한 것)
         url: /categories/python
         category: "python"

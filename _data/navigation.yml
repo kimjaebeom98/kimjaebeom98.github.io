@@ -52,7 +52,7 @@ sidebar:
         url: /categories/jekyll
         category: "jekyll"
   - title: "JAEBEOM"
-    childre:
+    children:
       - title: "etc"
         url: /categories/etc
         category: "etc"

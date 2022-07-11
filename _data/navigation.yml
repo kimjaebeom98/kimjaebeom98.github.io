@@ -51,3 +51,8 @@ sidebar:
       - title: "Jekyll"
         url: /categories/jekyll
         category: "jekyll"
+  - title: "JAEBEOM"
+    childre:
+      - title: "이모저모"
+        url: /categories/이모저모
+        category: "이모저모"

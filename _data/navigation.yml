@@ -37,15 +37,11 @@ sidebar:
       - title: "OS"
         url: /categories/OS
         category: "OS"
-  - title: "Self Study"
-    children:
-      - title: "HTML + CSS"
-        url: /categories/HTML_CSS
-        category: "HTML_CSS"
+  - title: "Django"
     children:
       - title: "Errors"
-        url: /categories/errors
-        category: "errors"
+        url: /categories/Errors
+        category: "Errors"
   - title: "Github blog"
     children:
       - title: "Jekyll"

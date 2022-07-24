@@ -52,3 +52,6 @@ sidebar:
       - title: "etc"
         url: /categories/etc
         category: "etc"
+      - title: "IT 포트폴리오 스터디"
+        url: /categories/pfstudy
+        category: "pfstudy"

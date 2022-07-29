@@ -27,6 +27,9 @@ sidebar:
       - title: Python
         url: /categories/python
         category: "python"
+      - title: MySQL
+        url: /categories/MySQL
+        category: "MySQL"
   - title: "Projects"
     children:
       - title: "CapStone"

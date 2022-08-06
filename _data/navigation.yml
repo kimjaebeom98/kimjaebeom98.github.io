@@ -42,6 +42,9 @@ sidebar:
         category: "OS"
   - title: "Django"
     children:
+      - title: "django"
+        url : /categories/django
+        category: "django"
       - title: "Errors"
         url: /categories/Errors
         category: "Errors"
@@ -55,6 +58,3 @@ sidebar:
       - title: "etc"
         url: /categories/etc
         category: "etc"
-      - title: "IT 포트폴리오 스터디"
-        url: /categories/pfstudy
-        category: "pfstudy"

@@ -40,10 +40,10 @@ sidebar:
       - title: "OS"
         url: /categories/OS
         category: "OS"
-  - title: "장고"
+  - title: "DEV"
     children:
       - title: "django"
-        url : /categories/django
+        url: /categories/django
         category: "django"
       - title: "Errors"
         url: /categories/Errors

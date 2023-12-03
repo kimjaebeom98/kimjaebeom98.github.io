@@ -45,6 +45,9 @@ sidebar:
       - title: "django"
         url: /categories/django
         category: "django"
+      - title: "spring"
+        url: /categories/spring
+        category: "spring"
       - title: "Errors"
         url: /categories/Errors
         category: "Errors"

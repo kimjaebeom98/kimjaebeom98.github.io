@@ -30,6 +30,9 @@ sidebar:
       - title: "MySQL"
         url: /categories/MySQL
         category: "MySQL"
+      - title: "Etc"
+        url: /categories/Etc
+        category: "Etc"
   - title: "Projects"
     children:
       - title: "CapStone"
@@ -56,8 +59,3 @@ sidebar:
       - title: "Jekyll"
         url: /categories/jekyll
         category: "jekyll"
-  - title: "JAEBEOM"
-    children:
-      - title: "etc"
-        url: /categories/etc
-        category: "etc"

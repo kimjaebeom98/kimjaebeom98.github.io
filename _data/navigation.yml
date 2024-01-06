@@ -48,9 +48,9 @@ sidebar:
       - title: "django"
         url: /categories/django
         category: "django"
-      - title: "spring"
-        url: /categories/spring
-        category: "spring"
+      - title: "spring-boot"
+        url: /categories/spring-boot
+        category: "spring-boot"
       - title: "Errors"
         url: /categories/Errors
         category: "Errors"
